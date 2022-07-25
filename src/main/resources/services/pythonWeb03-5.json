@@ -1,0 +1,10 @@
+{
+    "@class" : "org.apereo.cas.services.RegexRegisteredService",
+    "serviceId":"^http://localhost:5002.*",
+     "name" : "pythonWeb03",
+     "id" : 5,
+     "evaluationOrder" : 5,
+     "allowedAttributes":["cn","mail"],
+     "logoutType": "BACK_CHANNEL",
+     "logoutUrl" : "^http://localhost:5002.*"
+  }

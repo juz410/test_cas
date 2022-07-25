@@ -1,0 +1,10 @@
+
+
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId":"^https://localhost:8444/cas-management.*",
+   "name" : "casManagement",
+   "id" : 1,
+   "evaluationOrder" : 1,
+   "allowedAttributes":["cn","mail"]
+}

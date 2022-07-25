@@ -1,0 +1,6 @@
+{
+    "@class" : "org.apereo.cas.services.RegexRegisteredService",
+    "serviceId" : "^http://.*",
+    "name" : "Welcome to kokfeeng cas",
+    "id" : 10000001
+}

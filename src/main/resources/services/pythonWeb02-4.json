@@ -1,0 +1,8 @@
+{
+    "@class" : "org.apereo.cas.services.RegexRegisteredService",
+    "serviceId":"^http://localhost:5001.*",
+     "name" : "pythonWeb02",
+     "id" : 4,
+     "evaluationOrder" : 4,
+     "allowedAttributes":["cn","mail"]
+  }
